@@ -1,6 +1,40 @@
 /* This page will specify the decoration for my portfolio. */
 header {}
+/* Headings are the foremost part of the portfolio. */
 
-body{}
 
-footer{}
+body {}
+/* This is the body of the portfolio. */
+
+
+div {}
+.section_1 {}
+#primary-content {}
+
+.section_2 {}
+#secondary-content {}
+
+.section_3 {}
+#hot-links {}
+
+.section_4 {}
+#other-content {}
+
+
+
+
+footer {}
+/* At the foot of my portfolio is a last section. */
+
+
+div {}
+.section_5 {}
+#watermark {}
+.section_6 {}
+#navigation-main_menu_expanded {}
+.section_7 {}
+#navigation-organization_map
+.section_8 {}
+#social_media
+.section_9 {}
+#navigation-policy {}
