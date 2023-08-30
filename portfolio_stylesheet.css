@@ -1,18 +1,28 @@
-/* This page will specify the decoration for my portfolio. */
+/* This page will specify the decoration for my portfolios web page. */
+
+/* Your heading will be at the foremost part of the portfolio. */
 header {}
-/* Headings are the foremost part of the portfolio. */
 
-
+/* Here is one portion dedicated to the body of the portfolio. */
 body {}
-/* This is the body of the portfolio. */
-
-
 div {}
+
 .section_1 {}
 #primary-content {}
+.section_1-part_one{}
+#s1-p1-religious_freedom{}
+
+.section_1-part_two{} 
+#s1-p2-administering_relief{}
+
+.section_1-part_three{}
+#s1-p3-education_resources{}
+/* This concludes section one. */
+
 
 .section_2 {}
 #social_media-content {}
+
 
 .section_3 {}
 #hot-links {}
