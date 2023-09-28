@@ -5,10 +5,17 @@ header {}
 
 /* Here is one portion dedicated to the body of the portfolio. */
 body {}
+
+/* Containing elements will be modified beginning at this point */
 div {}
 
+/* This first section will highlight a items of merit. */
 .section_1 {}
 #primary-content {}
+
+.section_1-origin {}
+#s1-p0-standard {}
+
 .section_1-part_one{}
 #s1-p1-religious_freedom{}
 
