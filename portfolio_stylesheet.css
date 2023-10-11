@@ -1,57 +1,105 @@
-/* This page will specify the decoration for my portfolios web page. */
-
-/* Your heading will be at the foremost part of the portfolio. */
+/* Portfolio website style specification. */
 header {}
-
-/* Here is one portion dedicated to the body of the portfolio. */
 body {}
-
-/* Containing elements will be modified beginning at this point */
 div {}
 
-/* This first section will highlight a items of merit. */
+
+/* Section one: navigation. */
 .section_1 {}
-#primary-content {}
+#s1-navigation {}
 
-.section_1-origin {}
-#s1-p0-standard {}
+.section_1-part_1 {}
+#s1-p1-logo {}
 
-.section_1-part_one{}
-#s1-p1-religious_freedom{}
+.section_1-part_2 {}
+#s1-p2-greetings {}
 
-.section_1-part_two{} 
-#s1-p2-administering_relief{}
-
-.section_1-part_three{}
-#s1-p3-education_resources{}
+.section_1-part_3{} 
+#s1-p3-navigation_bar {}
 /* This concludes section one. */
 
 
+/* Section two: invitation. */
 .section_2 {}
-#social_media-content {}
+#s2-invitation {}
+/* This concludes section two. */
 
 
+/* Section three: welcoming. */
 .section_3 {}
-#hot-links {}
+#s3-welcoming {}
 
+.section_3-part_1 {}
+#s3-p1-wonders {}
+
+.section_3-part_2 {}
+#s3-p2-discovery {}
+/* This concludes section three. */
+
+
+/* Section four: hotlinks - questions. */
 .section_4 {}
-#other-content {}
+#s4-hotlinks {}
+/* This concludes section four. */
 
 
-
-
-footer {}
-/* At the foot of my portfolio is a last section. */
-
-
-div {}
+/* Section five: inquiry. */
 .section_5 {}
-#watermark {}
+#s5-inquire {}
+
+.section_5-part_1 {}
+#s5-p1-communications_form {}
+
+.section_5-part_2 {}
+#s5-p2-communications_invitation {}
+/* This concludes section five. */
+
+
+/* Section six: guidance. */
 .section_6 {}
-#navigation-main_menu_expanded {}
+#s6-guidance {}
+/* This concludes section six. */
+
+
+/* Section seven: community. */
 .section_7 {}
-#navigation-organization_map
+#s7-community {}
+
+.section_7-part_1 {}
+#s7-p1-experience {}
+
+.section_7-part_2 {}
+#s7-p2-newsletter {}
+
+.section_7-part_3 {}
+#s7-p3-education_exploration {}
+/* This concludes section seven. */
+
+
+/* Section eight: other. */
 .section_8 {}
-#social_media-links
+#s8-other {}
+/* This concludes section eight. */
+
+
+/* Seasonal and traditional signature. */
+footer {}
+div {}
+
+/* Section nine: outro. */
 .section_9 {}
-#navigation-policy {}
+#s9-outro {}
+
+.section_9-part_1 {}
+#s9-p1-sitemap {}
+
+.section_9-part_2 {}
+#s9-p2-organizational_map {}
+
+.section_9-part_3 {}
+#s9-p3-social_relay {}
+
+.section_9-part_4 {}
+#s9-p4-disclosure{}
+/* This concludes section nine. */
+/* This will conclude my companies website stylesheet. */
