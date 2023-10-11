@@ -1,12 +1,35 @@
 /* Portfolio website style specification. */
+/* General specifications. */
 header {}
 body {}
+footer {}
 div {}
+
+
+/* Here the body of the website begins. */
+/* Section origin: greeting. */
+.section_origin {}
+#so-alien {}
+
+.section_origin-part_1 {}
+#so-p1-greetings_earthling {}
+
+.section_origin-part_2 {}
+#so-p2-chat {}
+
+.section_origin-part_3 {}
+#so-p2-suggestion_box {}
+
+.section_origion-part_4 {}
+#so-p4-social_relay {}
 
 
 /* Section one: navigation. */
 .section_1 {}
 #s1-navigation {}
+
+.section_origin-part_2 {}
+#so-p2-chat {}
 
 .section_1-part_1 {}
 #s1-p1-logo {}
@@ -16,13 +39,11 @@ div {}
 
 .section_1-part_3{} 
 #s1-p3-navigation_bar {}
-/* This concludes section one. */
 
 
 /* Section two: invitation. */
 .section_2 {}
 #s2-invitation {}
-/* This concludes section two. */
 
 
 /* Section three: welcoming. */
@@ -34,13 +55,11 @@ div {}
 
 .section_3-part_2 {}
 #s3-p2-discovery {}
-/* This concludes section three. */
 
 
 /* Section four: hotlinks - questions. */
 .section_4 {}
 #s4-hotlinks {}
-/* This concludes section four. */
 
 
 /* Section five: inquiry. */
@@ -52,13 +71,11 @@ div {}
 
 .section_5-part_2 {}
 #s5-p2-communications_invitation {}
-/* This concludes section five. */
 
 
 /* Section six: guidance. */
 .section_6 {}
 #s6-guidance {}
-/* This concludes section six. */
 
 
 /* Section seven: community. */
@@ -73,20 +90,20 @@ div {}
 
 .section_7-part_3 {}
 #s7-p3-education_exploration {}
-/* This concludes section seven. */
 
 
 /* Section eight: other. */
 .section_8 {}
-#s8-other {}
-/* This concludes section eight. */
+#s8-commitment_to_God {}
+
+.section_8-part_1 {}
+#s8-p1-guiding_pillars {}
+
+.section_8-part_2 {}
+#s8-p2-ongoing_commitment {}
 
 
 /* Seasonal and traditional signature. */
-footer {}
-div {}
-
-/* Section nine: outro. */
 .section_9 {}
 #s9-outro {}
 
@@ -96,10 +113,10 @@ div {}
 .section_9-part_2 {}
 #s9-p2-organizational_map {}
 
-.section_9-part_3 {}
-#s9-p3-social_relay {}
+.section_origion-part_4 {}
+#so-p4-social_relay {}
 
-.section_9-part_4 {}
-#s9-p4-disclosure{}
-/* This concludes section nine. */
+.section_9-part_3 {}
+#s9-p3-disclosure{}
+
 /* This will conclude my companies website stylesheet. */
