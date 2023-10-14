@@ -103,7 +103,13 @@ div {}
 
 
 /* Seasonal and traditional signature. */
-.section_9 {}
+.section_9 {
+display: block;
+height: 20em;
+width: 90%;
+background-color: lightblue;
+}
+
 #s9-outro {}
 
 .section_9-part_1 {}
