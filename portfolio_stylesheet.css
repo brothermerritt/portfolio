@@ -92,14 +92,23 @@ div {}
 
 
 /* Section eight: other. */
-.section_8 {}
-#s8-commitment_to_God {}
+.section_8 {
+display: flex;
+margin: 0 auto;
+}
+
+#s8-commitment_to_God {
+
+}
 
 .section_8-part_1 {}
 #s8-p1-guiding_pillars {}
 
 .section_8-part_2 {}
 #s8-p2-ongoing_commitment {}
+
+.section_8-part_3 {}
+#s8-p3-ongoing_commitment {}
 
 
 /* Seasonal and traditional signature. */
