@@ -104,10 +104,11 @@ div {}
 
 /* Seasonal and traditional signature. */
 .section_9 {
-display: block;
+display: flex;
 margin: 0 auto;
-height: 20em;
+height: 30em;
 width: 90%;
+justify-content: center;
 background-color: lightblue;
 }
 
