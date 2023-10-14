@@ -95,13 +95,18 @@ div {}
 .section_8 {
 display: flex;
 margin: 0 auto;
+height: 30em;
+width: 90%;
+justify-content: center;
+background-color: lightblue;
 }
 
-#s8-commitment_to_God {
+#s8-commitment_to_God {}
+
+.section_8-part_1 {
+display:inline-grid;
 
 }
-
-.section_8-part_1 {}
 #s8-p1-guiding_pillars {}
 
 .section_8-part_2 {}
