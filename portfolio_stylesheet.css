@@ -132,14 +132,17 @@ background-color: lightblue;
 #s9-outro {}
 
 .section_9-part_1 {}
-#s9-p1-sitemap {}
+#s9-p1-footer-logo {}
 
 .section_9-part_2 {}
-#s9-p2-organizational_map {}
+#s9-p2-sitemap {}
+
+.section_9-part_3 {}
+#s9-p3-organizational_map {}
 
 #so-p4-social_relay {}
 
-.section_9-part_3 {}
-#s9-p3-disclosure{}
+.section_9-part_4 {}
+#s9-p4-disclosure{}
 
 /* This will conclude my companies website stylesheet. */
