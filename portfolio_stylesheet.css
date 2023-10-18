@@ -11,14 +11,18 @@ div {}
 .section_origin {}
 #so-alien {}
 
+
 .section_origin-part_1 {}
 #so-p1-greetings_earthling {}
+
 
 .section_origin-part_2 {}
 #so-p2-chat {}
 
+
 .section_origin-part_3 {}
 #so-p2-suggestion_box {}
+
 
 .section_origion-part_4 {}
 #so-p4-social_relay {}
@@ -28,13 +32,17 @@ div {}
 .section_1 {}
 #s1-navigation {}
 
+
 #so-p2-chat {}
+
 
 .section_1-part_1 {}
 #s1-p1-logo {}
 
+
 .section_1-part_2 {}
 #s1-p2-greetings {}
+
 
 .section_1-part_3{} 
 #s1-p3-navigation_bar {}
@@ -49,8 +57,10 @@ div {}
 .section_3 {}
 #s3-welcoming {}
 
+
 .section_3-part_1 {}
 #s3-p1-wonders {}
+
 
 .section_3-part_2 {}
 #s3-p2-discovery {}
@@ -65,8 +75,10 @@ div {}
 .section_5 {}
 #s5-inquire {}
 
+
 .section_5-part_1 {}
 #s5-p1-communications_form {}
+
 
 .section_5-part_2 {}
 #s5-p2-communications_invitation {}
@@ -81,11 +93,14 @@ div {}
 .section_7 {}
 #s7-community {}
 
+
 .section_7-part_1 {}
 #s7-p1-experience {}
 
+
 .section_7-part_2 {}
 #s7-p2-newsletter {}
+
 
 .section_7-part_3 {}
 #s7-p3-education_exploration {}
@@ -103,17 +118,22 @@ background-color: lightblue;
 
 #s8-commitment_to_God {}
 
+
 .section_8-part_1 {
 display:inline-grid;
 
 }
+
 #s8-p1-guiding_pillars {}
+
 
 .section_8-part_2 {}
 #s8-p2-ongoing_commitment {}
 
+
 .section_8-part_3 {}
 #s8-p3-ongoing_commitment {}
+
 
 .section_8-part_4 {}
 #s8-p4-future_commitment {}
@@ -138,16 +158,30 @@ width: fit-content;
 
 #s9-p1-footer-logo {}
 
-#lss_footer_logo {}
-#pig_footer_logo {}
+
+#lss_footer_logo {
+display: inline-flex;
+height: 2.5em;
+width: 2.5em;
+}
+
+#pig_footer_logo {
+display: inline-flex;
+height:2.5em;
+width:2.5em;
+}
+
 
 .section_9-part_2 {}
 #s9-p2-sitemap {}
 
+
 .section_9-part_3 {}
 #s9-p3-organizational_map {}
 
+
 #so-p4-social_relay {}
+
 
 .section_9-part_4 {}
 #s9-p4-disclosure{}
