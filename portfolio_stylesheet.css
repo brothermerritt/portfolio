@@ -112,7 +112,7 @@ display: flex;
 margin: 0 auto;
 height: 30em;
 width: 90%;
-justify-content: center;
+border: 2em solid white;
 background-color: lightblue;
 }
 
@@ -145,6 +145,7 @@ display: grid;
 margin: 0 auto;
 height: 30em;
 width: 90%;
+border: 2em solid white;
 background-color: lightblue;
 }
 
@@ -159,13 +160,13 @@ width: fit-content;
 #s9-p1-footer-logo {}
 
 
-#LSS_footer_logo {
+#lss_footer_logo {
 display: inline-flex;
 height: 2.5em;
 width: 2.5em;
 }
 
-#PIG_footer_logo {
+#pig_footer_logo {
 display: inline-flex;
 height:2.5em;
 width:2.5em;
