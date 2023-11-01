@@ -29,22 +29,43 @@ div {}
 
 
 /* Section one: navigation. */
-.section_1 {}
+.section_1 {
+display: flex;
+margin: 0 auto;
+height: 10em;
+width: 90%;
+border: 2em solid white;
+background-color: rgb(230, 118, 118);
+}
+
 #s1-navigation {}
 
 
 #so-p2-chat {}
 
 
-.section_1-part_1 {}
+.section_1-part_1 {
+display: grid;
+margin: 0 auto;
+height: 2em;
+width: 90%;
+border: solid;
+font-family: Times New Roman;
+font-size: 18px;
+text-align: center;
+}
 #s1-p1-logo {}
 
 
-.section_1-part_2 {}
+.section_1-part_2 {
+  
+}
 #s1-p2-greetings {}
 
 
-.section_1-part_3{} 
+.section_1-part_3{
+display:inline-flex; 
+} 
 #s1-p3-navigation_bar {}
 
 
