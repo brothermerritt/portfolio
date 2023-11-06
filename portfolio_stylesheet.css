@@ -32,26 +32,24 @@ div {}
 
 /* Section one: navigation. */
 .section_1 {
-display: flex;
+display: grid;
 margin: 0 auto;
 height: 10em;
 width: 90%;
-border: 2em solid white;
 background-color: rgb(230, 118, 118);
 }
-
 #s1-navigation {}
 
 
 .section_1-part_1 {
-display: grid;
+display: inline-flex;
 margin: 0 auto;
 height: 2em;
-width: 90%;
+width: inherit;
 border: solid;
 font-family: Times New Roman;
 font-size: 18px;
-text-align: center;
+justify-content: center;
 }
 #s1-p1-logo {}
 
@@ -63,7 +61,11 @@ text-align: center;
 
 
 .section_1-part_3{
-display:inline-flex; 
+display: inline-flex; 
+margin: 0 auto;
+height: 2em;
+width: inherit;
+border: solid;
 } 
 #s1-p3-navigation_bar {}
 
