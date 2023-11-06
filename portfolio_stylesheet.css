@@ -28,6 +28,8 @@ div {}
 #so-p4-social_relay {}
 
 
+
+
 /* Section one: navigation. */
 .section_1 {
 display: flex;
@@ -39,9 +41,6 @@ background-color: rgb(230, 118, 118);
 }
 
 #s1-navigation {}
-
-
-#so-p2-chat {}
 
 
 .section_1-part_1 {
@@ -67,6 +66,23 @@ text-align: center;
 display:inline-flex; 
 } 
 #s1-p3-navigation_bar {}
+
+.navigation_contents {}
+#navigation_contents {}
+
+#item_one {}
+#nav_welcome {}
+
+#item_two {}
+#nav_library {}
+
+#item_three {}
+#nav_news {}
+
+#item_four {}
+#nav_serve {}
+
+
 
 
 /* Section two: invitation. */
