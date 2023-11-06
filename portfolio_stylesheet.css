@@ -65,18 +65,22 @@ border: solid;
 
 
 .section_1-part_3{
-display: inline-flex; 
+display: flex; 
 margin: 0 auto;
 height: 2em;
 width: inherit;
 border: solid;
 align-content: center;
 justify-content: center;
-} 
+}
+
 #s1-p3-navigation_bar {}
 
 .navigation_contents {}
-#navigation_contents {}
+#navigation_contents {
+display: inline-flex;
+gap: 2rem;
+}
 
 #item_one {
 display: inline-flex;
