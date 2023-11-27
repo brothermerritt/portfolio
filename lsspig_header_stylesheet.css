@@ -1,0 +1,341 @@
+/* Portfolio website style specification. */
+/* General specifications. */
+header {}
+body {}
+footer {}
+div {}
+
+
+/* Here the body of the website begins. */
+/* Section origin: greeting. */
+.section_origin {}
+#so-alien {}
+
+
+.section_origin-part_1 {}
+#so-p1-greetings_earthling {}
+
+
+.section_origin-part_2 {}
+#so-p2-chat {}
+
+
+.section_origin-part_3 {}
+#so-p2-suggestion_box {}
+
+
+.section_origion-part_4 {}
+#so-p4-social_relay {}
+
+
+
+
+/* Section one: navigation. */
+.section_1 {
+display: flex;
+margin: 0 auto;
+height: 15em;
+width: auto;
+background-color: black;
+}
+
+#s1-navigation {}
+
+
+.section_1-part_1 {
+display: inline-flex;
+float: left;
+height: 15em;
+width: inherit;
+}
+
+#s1-p1-logo {}
+
+#home_logo {
+display:inline-flex;
+}
+
+
+.section_1-part_2 {
+display: inline-flex;
+padding: 3em;
+justify-content: flex-start;
+align-items: center;
+}
+
+#s1-p2-greetings {}
+
+#lsspig_heading_title {
+  text-decoration: none;
+}
+
+#lsspig {
+font-family: Times New Roman;
+font-size: 18px;
+color: white;
+}
+
+
+.section_1-part_3{
+display: inline-flex;
+}
+
+#s1-p3-navigation_bar {}
+
+.navigation_contents {
+display: inline-flex;
+  position: absolute;
+  top: 10%; 
+gap: 2rem;
+}
+
+#navigation_contents {}
+
+
+#item_one {
+display: inline-flex;
+width: auto;
+height: 1em;
+padding: 1rem;
+border-radius: .5rem;
+background-color: greenyellow;
+}
+
+#item_one a {
+text-decoration: none;
+color: black;
+}
+
+#nav_about {}
+
+
+#item_two {
+display: inline-flex;
+width: auto;
+height: 1em;
+padding: 1rem;
+border-radius: .5rem;
+background-color: greenyellow;
+}
+
+#item_two a {
+text-decoration: none;
+color: black;
+}
+
+#nav_welcome {}
+
+
+#item_three {
+display: inline-flex;
+width: auto;
+height: 1em;
+padding: 1rem;
+border-radius: .5rem;
+background-color: greenyellow;
+}
+
+#item_three a {
+text-decoration: none;
+color: black;
+}
+
+nav_showcase {}
+
+
+#item_four {
+display: inline-flex;
+width: auto;
+height: 1em;
+padding: 1rem;
+border-radius: .5rem;
+background-color: greenyellow;
+}
+
+#item_four a {
+text-decoration: none;
+color: black;
+}
+
+#nav_connect {}
+
+
+#item_five {
+display: inline-flex;
+width: auto;
+height: 1em;
+padding: 1rem;
+border-radius: .5rem;
+background-color: greenyellow;
+}
+
+#item_five a {
+text-decoration: none;
+color: black;
+}
+
+#nav_news {}
+
+
+#item_six {}
+#item_six a {}
+#nav_bar_icon {}
+
+.section_1_break {
+display: flex;
+height: 2em;
+width: auto;
+border-top: solid white 3px;
+background-color: greenyellow;
+}
+
+#section_1_break {}
+
+
+/* Section two: invitation. */
+.section_2 {}
+#s2-invitation {}
+
+
+/* Section three: welcoming. */
+.section_3 {}
+#s3-welcoming {}
+
+
+.section_3-part_1 {}
+#s3-p1-wonders {}
+
+
+.section_3-part_2 {}
+#s3-p2-discovery {}
+
+
+/* Section four: hotlinks - questions. */
+.section_4 {}
+#s4-hotlinks {}
+
+
+/* Section five: inquiry. */
+.section_5 {}
+#s5-inquire {}
+
+
+.section_5-part_1 {}
+#s5-p1-communications_form {}
+
+
+.section_5-part_2 {}
+#s5-p2-communications_invitation {}
+
+
+/* Section six: guidance. */
+.section_6 {}
+#s6-guidance {}
+
+
+/* Section seven: community. */
+.section_7 {}
+#s7-community {}
+
+
+.section_7-part_1 {}
+#s7-p1-experience {}
+
+
+.section_7-part_2 {}
+#s7-p2-newsletter {}
+
+
+.section_7-part_3 {}
+#s7-p3-education_exploration {}
+
+
+/* Section eight: other. */
+.section_8 {
+display: flex;
+margin: 0 auto;
+height: 30em;
+width: 90%;
+border: 2em solid white;
+background-color: rgb(230, 118, 118);
+}
+
+#s8-commitment_to_God {}
+
+
+.section_8-part_1 {
+display:inline-grid;
+
+}
+
+#s8-p1-guiding_pillars {}
+
+
+.section_8-part_2 {}
+#s8-p2-ongoing_commitment {}
+
+
+.section_8-part_3 {}
+#s8-p3-ongoing_commitment {}
+
+
+.section_8-part_4 {}
+#s8-p4-future_commitment {}
+
+
+/* Seasonal and traditional signature. */
+.section_9 {
+display: flex;
+margin: 0 auto;
+height: 25em;
+width: 90%;
+border: 2em solid rgb(230, 118, 118);
+background-color: lightblue;
+}
+
+#s9-outro {}
+
+.section_9-part_1 {
+display: inline-flex;
+background-color: salmon;
+margin: 0 auto;
+height: 15em;
+width: inherit;
+justify-content: center;
+}
+
+#s9-p1-footer-logo {
+display: inline-flex;
+}
+
+
+#lss_footer_logo {
+display: inline-flexbox;
+height: 12rem;
+width: auto;
+border: solid;
+}
+
+#pig_footer_logo {
+display: inline-flexbox;
+height:12rem;
+width:auto;
+border: solid;
+}
+
+
+.section_9-part_2 {}
+#s9-p2-sitemap {}
+
+
+.section_9-part_3 {}
+#s9-p3-organizational_map {}
+
+
+#so-p4-social_relay {}
+
+
+.section_9-part_4 {}
+#s9-p4-disclosure{}
+
+/* This will conclude my companies website stylesheet. */
