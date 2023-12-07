@@ -1,0 +1,111 @@
+/* Portfolio websites experimental heading style specification. */
+/* General specifications. */
+header {}
+body {}
+footer {}
+div {}
+
+
+/* Primary contents: section one only. */
+/* Section one: navigation. */
+.section_1 {
+display: flex;
+height: 10%;
+width: auto;
+background-color: lime;
+}
+ 
+#s1-nav {}
+  
+
+
+
+/* Section one - subsection one - my signature logo. */
+.section_1-part_1 {
+display: inline-flex;
+float: left;
+}
+
+#s1-p1-logo {}
+
+
+.home_logo {}
+#home_logo {
+display: block;
+}
+    
+#signature {
+height: 20%;
+width: auto;
+}
+
+
+
+
+/* Section one - subsection two - business selection. */
+.section_1-part_2 {
+display: inline-flex;
+flex-direction:column;
+align-items: center;
+height: 5%;
+width: 25%;
+background-color: black;
+}
+    
+#s1-p2-entrepreneurship {}
+
+.title_menu {
+text-decoration: none;
+}
+
+.title_menu:hover {
+background-color: salmon;
+}
+
+#title_menu {}
+    
+#lsspig {
+font-family: Times New Roman;
+font-size: 18px;
+color: white;
+}
+
+#lsspig:hover, #lsspig:focus {
+color: darkred;
+}
+
+.select_menu {
+display:inline-flex;
+flex-direction:column;
+align-self: flex-start;
+margin: 0 auto;
+background-color: rgb(15, 14, 14);
+}
+
+.select_menu a {
+display: inline-flex;
+overflow:visible;
+color: white;
+padding:3em;
+text-decoration: none;
+}
+
+.select_menu a:hover {
+background-color: salmon;
+color: darkred;
+}
+
+#select_menu {}
+
+#SM1 {
+display:flexbox;
+flex-direction: row;
+}
+
+#SM2 {
+display: flexbox;
+flex-direction: row;
+}
+
+
+
