@@ -16,7 +16,8 @@ background-color: lime;
 #s1-nav {}
 
 
-/* Section one - subsection one - my signature logo. */
+
+/* Section one - part one - my signature logo. */
 .section_1-part_1 {
 display: inline-flex;
 float: left;
@@ -39,3 +40,20 @@ width: inherit;
 height: inherit;
 width: inherit;
 }
+
+
+/* Section one - part two - entrepreneurship menu */
+.section_1-part_2 {
+display: inline-flex;
+flex-direction: column;
+}
+
+#s1-p2-menu {}
+
+.lsspig {}
+#lsspig {}
+
+.cc {}
+#cc {}
+
+
