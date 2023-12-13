@@ -30,7 +30,6 @@ width: 200px;
     
 .home_logo {
 display:inline-flex;
-padding: 10px;
 height: inherit;
 width: inherit;
 }
@@ -45,7 +44,7 @@ width: inherit;
 /* Section one - part two - entrepreneurship menu */
 .section_1-part_2 {
 display: inline-flex;
-padding: 20px;
+padding-left: 20px;
 justify-content: center;
 flex-direction: column;
 }
