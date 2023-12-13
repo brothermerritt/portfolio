@@ -45,6 +45,8 @@ width: inherit;
 /* Section one - part two - entrepreneurship menu */
 .section_1-part_2 {
 display: inline-flex;
+padding: 20px;
+justify-content: center;
 flex-direction: column;
 }
 
