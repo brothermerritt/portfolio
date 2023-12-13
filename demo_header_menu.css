@@ -4,6 +4,7 @@ header {}
 body {}
 footer {}
 
+
 /* Primary contents: section one header and logo. */
 /* Section one: navigation. */
 .section_1 {
@@ -45,8 +46,8 @@ width: inherit;
 /* Section one - part two - entrepreneurship menu */
 .section_1-part_2 {
 display: inline-flex;
-margin: 0 auto;
-border: 40px;
+float: left;
+margin-left: 30px;
 justify-content: center;
 flex-direction: column;
 }
@@ -58,5 +59,9 @@ flex-direction: column;
 
 .cc {}
 #cc {}
+
+
+/* Section one - part three - placeholder */
+
 
 
