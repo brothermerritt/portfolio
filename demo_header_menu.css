@@ -61,7 +61,15 @@ flex-direction: column;
 #cc {}
 
 
-/* Section one - part three - placeholder */
+/* Section one - part three - bookend */
+.section_1-part_3 {
+display:inline-flex;
+flex-direction: row;
+width: auto;
+height: inherit;
+background-color: salmon;
+}
 
+#s1-p3-placeholder {}
 
 
