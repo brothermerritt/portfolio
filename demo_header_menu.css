@@ -12,6 +12,7 @@ margin: 0 auto;
 height: 30ch;
 width: 90vw;
 background-color: lime;
+flex-direction: column;
 }
 #s1-nav {}
 
@@ -44,7 +45,8 @@ width: inherit;
 /* Section one - part two - entrepreneurship menu */
 .section_1-part_2 {
 display: inline-flex;
-padding-left: 20px;
+margin: 0 auto;
+border: 40px;
 justify-content: center;
 flex-direction: column;
 }
