@@ -21,8 +21,10 @@ background-color: lime;
 
 /* Section one - part one - my signature logo. */
 .fragment_1 {
+display: inline-flex;
 flex-direction: column;
 }
+
 #f1 {}
 
 .section_1-part_1 {
