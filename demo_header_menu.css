@@ -21,6 +21,9 @@ flex-direction: column;
 
 
 /* Section one - part one - my signature logo. */
+.fragment_1 {}
+#f1 {}
+
 .section_1-part_1 {
 display: inline-flex;
 float: left;
@@ -93,6 +96,9 @@ width: 220px;
 
 
 /* Section one - part three - bookend */
+.fragment_2 {}
+#f2{}
+
 .section_1-part_3 {
 display:inline-flex;
 align-self: row;
