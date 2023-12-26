@@ -101,7 +101,7 @@ width: 220px;
 /* Section one - part three - bookend */
 .fragment_2 {
 display: flex;
-width: 120vw;
+width: auto;
 }
 #f2{}
 
