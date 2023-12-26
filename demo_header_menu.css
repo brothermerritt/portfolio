@@ -95,9 +95,9 @@ width: 220px;
 /* Section one - part three - bookend */
 .section_1-part_3 {
 display:inline-flex;
-flex-direction: row;
-width: 500px;
-height: 500px;
+align-self: row;
+width: auto;
+height: 200px;
 background-color: salmon;
 }
 
