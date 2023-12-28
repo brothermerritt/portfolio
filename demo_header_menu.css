@@ -108,7 +108,7 @@ width: 90vw;
 .section_1-part_3 {
 display:inline-flex;
 align-self: row;
-width:;
+width: 90%;
 height: 200px;
 background-color: salmon;
 }
