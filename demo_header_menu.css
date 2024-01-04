@@ -116,7 +116,7 @@ background-color: salmon;
 
 #s1-p3-lsspigframe {
 display: inline-flex;
-align-content: flex-end;
+align-self: flex-end;
 justify-content: center;
 }
 
