@@ -116,10 +116,10 @@ background-color: salmon;
 
 #s1-p3-lsspigframe {
 display: inline-flex;
-margin: 0 auto;
+align-self: center;
 }
 
-#s1-p3-lsspigfram a {
+#s1-p3-lsspigframe a {
 color: red;
 margin: 0 auto;
 padding: 20px;
