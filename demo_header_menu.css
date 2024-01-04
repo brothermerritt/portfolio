@@ -118,6 +118,7 @@ background-color: salmon;
 display: inline-flex;
 align-items: flex-end;
 justify-content: center;
+margin: 0 auto;
 }
 
 #s1-p3-lsspigframe a {
