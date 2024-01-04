@@ -114,7 +114,16 @@ height: 200px;
 background-color: salmon;
 }
 
-#s1-p3-lsspigframe {}
+#s1-p3-lsspigframe {
+display: inline-flex;
+margin: 0 auto;
+}
+
+#s1-p3-lsspigfram a {
+color: red;
+margin: 0 auto;
+padding: 20px;
+}
 
 .fragment_3 {}
 #f3 {}
