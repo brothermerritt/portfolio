@@ -116,13 +116,14 @@ background-color: salmon;
 
 #s1-p3-lsspigframe {
 display: inline-flex;
-align-self: center;
+align-content: flex-end;
+justify-content: center;
 }
 
 #s1-p3-lsspigframe a {
 color: red;
 margin: 0 auto;
-padding: 20px;
+padding: 10px;
 }
 
 .fragment_3 {}
