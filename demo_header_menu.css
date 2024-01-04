@@ -118,7 +118,7 @@ background-color: salmon;
 display: inline-flex;
 align-items: flex-end;
 justify-content: center;
-padding-bottom: 10%;
+bottom: 10%;
 }
 
 #s1-p3-lsspigframe a {
