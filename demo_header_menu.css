@@ -36,7 +36,7 @@ width: 200px;
     
 #s1-p1-logo {}
     
-
+    
 .home_logo {
 display:inline-flex;
 height: inherit;
@@ -48,7 +48,6 @@ width: inherit;
 height: inherit;
 width: inherit;
 }
-
 
 
 /* Section one - part two - entrepreneurship menu */
@@ -115,7 +114,7 @@ height: 200px;
 background-color: white;
 }
 
-#s1-p3-name {
+#s1-p3-lsspigframe {
 display: inline-flex;
 align-items: flex-end;
 justify-content: center;
@@ -130,7 +129,7 @@ padding: 10px;
 }
 
 #s1-p3-lsspigframe a:hover {
-color: rgb(0, 105, 0);
+color: rgb(0, 183, 0);
 }
 
 .fragment_3 {}
