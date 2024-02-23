@@ -98,41 +98,6 @@ width: 220px;
 #cc {}
 
 
-.thf {
-    color:rgb(254, 255, 243);
-    text-decoration: none;
-    display: inline-flex;
-    justify-content: center;
-    width: 200px;
-    height: auto;
-    padding: 20px 0;
-}
-    
-.thf:hover {
-background-color: rgb(50, 53, 67);
-width: 220px;
-}
-    
-#thf {}
-
-.tort {
-color:rgb(254, 255, 243);
-text-decoration: none;
-display: inline-flex;
-justify-content: center;
-width: 200px;
-height: auto;
-padding: 20px 0;
-}
-        
-.tort:hover {
-background-color: rgb(50, 53, 67);
-width: 220px;
-}
-        
-#tort {}
-
-
 /* Section one - part three - bookend */
 .fragment_2 {
 display: flex;
