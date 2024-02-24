@@ -63,7 +63,7 @@ background-color: rgb(40, 40, 40)
 
 #s1-p2-menu {}
 
-.lsspig {
+.lss {
 color:rgb(254, 255, 243);
 text-decoration: none;
 display: inline-flex;
@@ -73,14 +73,14 @@ height: auto;
 padding: 20px 0;
 }
 
-.lsspig:hover {
+.lss:hover {
 background-color: rgb(50, 53, 67);
 width: 220px;
 }
 
-#lsspig {}
+#lss {}
 
-.cc {
+.pig {
 color:rgb(254, 255, 243);
 text-decoration: none;
 display: inline-flex;
@@ -90,12 +90,12 @@ height: auto;
 padding: 20px 0;
 }
 
-.cc:hover {
+.pig:hover {
 background-color: rgb(50, 53, 67);
 width: 220px;
 }
 
-#cc {}
+#pig {}
 
 
 /* Section one - part three - bookend */
