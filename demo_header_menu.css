@@ -74,6 +74,7 @@ padding: 20px 0;
 }
 
 .lss:hover {
+color: rgb(0, 183, 0);
 background-color: rgb(50, 53, 67);
 }
 
@@ -90,6 +91,7 @@ padding: 20px 0;
 }
 
 .pig:hover {
+color: rgb(0, 183, 0);
 background-color: rgb(50, 53, 67);
 }
 
