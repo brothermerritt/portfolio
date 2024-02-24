@@ -20,7 +20,7 @@ background-color: lime;
 
 
 /* Section one - part one - my signature logo. */
-.section_1 {
+.part_1 {
 display: inline-flex;
 flex-direction: column;
 }
