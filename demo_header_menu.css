@@ -7,7 +7,7 @@ footer {}
 
 /* Primary contents: section one header and logo. */
 /* Section one: navigation. */
-.section_1 {
+.fragment_1 {
 display: flex;
 margin: 0 auto;
 height: 200px;
@@ -15,26 +15,26 @@ width: 90vw;
 background-color: lime;
 }
 
-#s1-nav {}
+#f1-nav {}
 
 
 
 /* Section one - part one - my signature logo. */
-.fragment_1 {
+.section_1 {
 display: inline-flex;
 flex-direction: column;
 }
 
-#f1 {}
+#s1 {}
 
-.section_1-part_1 {
+.part_1-section_1 {
 display: inline-flex;
 float: left;
 height: inherit;
 width: 200px;
 }
     
-#s1-p1-logo {}
+#p1-s1-logo {}
     
     
 .home_logo {
@@ -51,7 +51,7 @@ width: inherit;
 
 
 /* Section one - part two - entrepreneurship menu */
-.section_1-part_2 {
+.part_1-section_2 {
 display: inline-flex;
 float: left;
 height:auto;
@@ -61,7 +61,7 @@ justify-content: center;
 background-color: rgb(40, 40, 40)
 }
 
-#s1-p2-menu {}
+#p1-s2-menu {}
 
 .lss {
 color:rgb(254, 255, 243);
@@ -97,14 +97,14 @@ background-color: rgb(50, 53, 67);
 
 
 /* Section one - part three - bookend */
-.fragment_2 {
+.part_2 {
 display: flex;
 Height: auto;
 width: 100vw;
 }
-#f2{}
+#p2{}
 
-.section_1-part_3 {
+.part_2-section_1 {
 display:inline-flex;
 align-self: row;
 width: 100%;
@@ -112,28 +112,28 @@ height: 200px;
 background-color: white;
 }
 
-#s1-p3-lsspigframe {
+#p2-s1-menu {
 display: inline-flex;
 align-items: flex-end;
 justify-content: center;
 bottom: 10%;
 }
 
-#s1-p3-lsspigframe a {
+#p2-s1-menu a {
 text-decoration: none;
 color: black;
 margin: 0 auto;
 padding: 10px;
 }
 
-#s1-p3-lsspigframe a:hover {
+#p2-s1-menu a:hover {
 color: rgb(0, 183, 0);
 }
 
-.fragment_3 {}
-#f3 {}
+.part_3 {}
+#p3 {}
 
-.section_2 {
+.fragment_2 {
 display: flex;
 margin: 0 auto;
 height: 10px;
@@ -141,4 +141,4 @@ width: 90vw;
 padding: 10px;
 background-color: lime;
 }
-#s2-border {}
+#f2-border {}
