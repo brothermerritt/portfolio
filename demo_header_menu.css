@@ -19,23 +19,26 @@ background-color: lime;
 
 
 
-/* Section one - part one - my signature logo. */
-.part_1 {
+/* Fragment one - part one - my signature logo. */
+.f1-p1 {
 display: inline-flex;
 flex-direction: column;
 }
 
-#s1 {}
+#f1-p1 {}
 
-.part_1-section_1 {
+
+
+/* Fragment one - part one - section one: my signature. */
+.f1-p1-s1 {
 display: inline-flex;
 float: left;
 height: inherit;
 width: 200px;
 }
     
-#p1-s1-logo {}
-    
+#f1-p1-s1-logo {}
+
     
 .home_logo {
 display:inline-flex;
@@ -50,8 +53,9 @@ width: inherit;
 }
 
 
-/* Section one - part two - entrepreneurship menu */
-.part_1-section_2 {
+
+/* Fragment one - part one - section two: entrepreneurship menu */
+.f1-p1-s2 {
 display: inline-flex;
 float: left;
 height:auto;
@@ -61,7 +65,7 @@ justify-content: center;
 background-color: rgb(40, 40, 40)
 }
 
-#p1-s2-menu {}
+#f1-p1-s2-menu {}
 
 .lss {
 color:rgb(254, 255, 243);
@@ -96,15 +100,19 @@ background-color: rgb(50, 53, 67);
 #pig {}
 
 
-/* Section one - part three - bookend */
-.part_2 {
+
+
+/* fragment one - part two - navigation */
+.f1-p2 {
 display: flex;
 Height: auto;
 width: 100vw;
 }
-#p2{}
 
-.part_2-section_1 {
+#f1-p2{}
+
+
+.f1-p2-s1 {
 display:inline-flex;
 align-self: row;
 width: 100%;
@@ -112,28 +120,41 @@ height: 200px;
 background-color: white;
 }
 
-#p2-s1-menu {
+#f1-p2-s1-menu {
 display: inline-flex;
 align-items: flex-end;
 justify-content: center;
 bottom: 10%;
 }
 
-#p2-s1-menu a {
+#f1-p2-s1-menu a {
 text-decoration: none;
 color: black;
 margin: 0 auto;
 padding: 10px;
 }
 
-#p2-s1-menu a:hover {
+#f1-p2-s1-menu a:hover {
 color: rgb(0, 183, 0);
 }
 
-.part_3 {}
-#p3 {}
 
-.fragment_2 {
+
+/* Fragment one - part three - nested menu. */
+.f1-p3 {}
+#f1-p3 {}
+
+
+
+/* Fragment one - part three - sectione one: clover menu. */
+.f1-p3-s1 {}
+#f1-p3-s1 {}
+
+
+
+
+/* Fragment two - part one - my signature logo. */
+.f2 {
 display: flex;
 margin: 0 auto;
 height: 10px;
@@ -142,3 +163,6 @@ padding: 10px;
 background-color: lime;
 }
 #f2-border {}
+
+.f3 {}
+#f3-border {}
