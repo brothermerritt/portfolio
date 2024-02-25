@@ -206,33 +206,33 @@ color: rgb(0, 183, 0);
 }
 
 .lss {
-    color:rgb(254, 255, 243);
-    text-decoration: none;
-    display: inline-flex;
-    justify-content: center;
-    width: 200px;
-    height: auto;
-    padding: 20px 0;
-    }
+color:rgb(254, 255, 243);
+text-decoration: none;
+display: inline-flex;
+justify-content: center;
+width: 200px;
+height: auto;
+padding: 20px 0;
+}
     
-    .lss:hover {
-    background-color: rgb(50, 53, 67);
-    }
+.lss:hover {
+background-color: rgb(50, 53, 67);
+}
     
-    #lss {}
+#lss {}
     
-    .pig {
-    color:rgb(254, 255, 243);
-    text-decoration: none;
-    display: inline-flex;
-    justify-content: center;
-    width: 200px;
-    height: auto;
-    padding: 20px 0;
-    }
+.pig {
+color:rgb(254, 255, 243);
+text-decoration: none;
+display: inline-flex;
+justify-content: center;
+width: 200px;
+height: auto;   
+padding: 20px 0;
+}
     
-    .pig:hover {
-    background-color: rgb(50, 53, 67);
-    }
+.pig:hover {
+background-color: rgb(50, 53, 67);
+}
     
-    #pig {}
+#pig {}
