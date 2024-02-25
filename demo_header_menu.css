@@ -154,7 +154,7 @@ color: rgb(0, 183, 0);
 
 
 /* Fragment two - part one - my signature logo. */
-.f2 {
+.fragment_2 {
 display: flex;
 margin: 0 auto;
 height: 10px;
@@ -164,5 +164,5 @@ background-color: lime;
 }
 #f2-border {}
 
-.f3 {}
+.fragment_3 {}
 #f3-border {}
