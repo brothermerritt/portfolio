@@ -183,10 +183,12 @@ background-color: transparent;
 
 .f3-p1-s1 {
 display: inline-flex;
-align-self: column;
+flex-direction: column;
 justify-content: center;
 width: 200px;
 height: auto;
+padding: 5px;
+gap:10px;
 background-color: rgb(255, 186, 186);
 }
 
