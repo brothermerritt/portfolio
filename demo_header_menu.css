@@ -159,7 +159,6 @@ display: flex;
 margin: 0 auto;
 height: 10px;
 width: 90vw;
-padding: 10px;
 background-color: lime;
 }
 #f2-border {}
@@ -170,9 +169,8 @@ background-color: lime;
 .fragment_3 {
 display: flex;
 margin: 0 auto;
-height: 50px;
+align-content: left;
 width: 90vw;
-padding: 10px;
 background-color: lime;
 }
 
