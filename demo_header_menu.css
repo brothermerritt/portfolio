@@ -54,53 +54,6 @@ width: inherit;
 
 
 
-/* Fragment one - part one - section two: entrepreneurship menu
-.f1-p1-s2 {
-display: inline-flex;
-float: left;
-height:auto;
-width: 200px;
-flex-direction: column;
-justify-content: center;
-background-color: rgb(40, 40, 40)
-}
-
-#f1-p1-s2-menu {}
-
-.lss {
-color:rgb(254, 255, 243);
-text-decoration: none;
-display: inline-flex;
-justify-content: center;
-width: 200px;
-height: auto;
-padding: 20px 0;
-}
-
-.lss:hover {
-background-color: rgb(50, 53, 67);
-}
-
-#lss {}
-
-.pig {
-color:rgb(254, 255, 243);
-text-decoration: none;
-display: inline-flex;
-justify-content: center;
-width: 200px;
-height: auto;
-padding: 20px 0;
-}
-
-.pig:hover {
-background-color: rgb(50, 53, 67);
-}
-
-#pig {}
-*/
-
-
 
 /* fragment one - part two - navigation */
 .f1-p2 {
@@ -136,6 +89,7 @@ padding: 10px;
 
 #f1-p2-s1-menu a:hover {
 color: rgb(0, 183, 0);
+text-decoration: underline;
 }
 
 
