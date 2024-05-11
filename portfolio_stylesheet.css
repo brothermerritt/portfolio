@@ -34,7 +34,7 @@ div {}
 .section_1 {
 display: grid;
 margin: 0 auto;
-height: 10vh;
+height: 20vh;
 width: 90%;
 background-color: rgb(230, 118, 118);
 }
@@ -43,13 +43,14 @@ background-color: rgb(230, 118, 118);
 
 .section_1-part_1 {
 display: inline-flex;
-height: 5rem;
+height: 8vh;
 width: inherit;
 margin: 0 auto;
 font-size: 18px;
 font-family: Times New Roman;
 justify-content: center;
 align-items: center;
+background-color: rgb(118, 230, 223);
 }
 #s1-p1-logo {}
 
@@ -57,8 +58,9 @@ align-items: center;
 .section_1-part_2 {
 display: inline-flex;
 margin: 0 auto;
-height: 10px;
+height: 2vh;
 width: inherit;
+background-color: rgb(118, 230, 223);
 }
 #s1-p2-greetings {}
 
@@ -66,26 +68,29 @@ width: inherit;
 .section_1-part_3{
 display: flex; 
 margin: 0 auto;
-height: 4rem;
+height: 10vh;
 width: inherit;
 justify-content: center;
+background-color: rgb(118, 230, 223);
 }
 
 #s1-p3-navigation_bar {}
 
+
 .navigation_contents {}
 #navigation_contents {
 display: inline-flex;
-  position: absolute;
-  top: 10%; 
 gap: 2rem;
+padding: 0px;
+align-items: center;
 }
 
 #item_one {
 display: inline-flex;
-width: 4rem;
-height: 1em;
+width: inherit;
+height: inherit;
 padding: 1rem;
+margin: 0 auto;
 background-color:  rgb(164, 203, 255);
 }
 #nav_welcome {}
@@ -97,9 +102,10 @@ color: black;
 
 #item_two {
 display: inline-flex;
-width: 35%;
-height: 1em;
+width: inherit;
+height: inherit;
 padding: 1rem;
+margin: 0 auto;
 background-color:  rgb(164, 203, 255);
 }
 
@@ -112,9 +118,10 @@ color: black;
 
 #item_three {
 display: inline-flex;
-width: 35%;
-height: 1em;
+width: inherit;
+height: inherit;
 padding: 1rem;
+margin: 0 auto;
 background-color:  rgb(164, 203, 255);
 }
 
@@ -127,9 +134,10 @@ color: black;
 
 #item_four {
 display: inline-flex;
-width: 35%;
-height: 1em;
+width: inherit;
+height: inherit;
 padding: 1rem;
+margin: 0 auto;
 background-color:  rgb(164, 203, 255);
 }
 
@@ -139,6 +147,25 @@ color: black;
 }
 
 #nav_serve {}
+
+#item_five {
+  display: inline-flex;
+  width: inherit;
+  height: inherit;
+  padding: 1rem;
+  margin: 0 auto;
+  background-color:  rgb(22, 250, 2);
+}
+
+#item_five a {
+text-decoration: none;
+color: black;
+}
+
+#acc_register {}
+
+
+
 
 
 
