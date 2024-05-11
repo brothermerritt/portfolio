@@ -6,7 +6,7 @@ footer {}
 div {}
 
 
-/* Here the body of the website begins. */
+/* This will be the body of the website. */
 /* Section origin: greeting. */
 .section_origin {}
 #so-alien {}
@@ -21,7 +21,7 @@ div {}
 
 
 .section_origin-part_3 {}
-#so-p2-suggestion_box {}
+#so-p3-suggestion_box {}
 
 
 .section_origion-part_4 {}
@@ -34,7 +34,7 @@ div {}
 .section_1 {
 display: grid;
 margin: 0 auto;
-height: 10em;
+height: 10vh;
 width: 90%;
 background-color: rgb(230, 118, 118);
 }
@@ -43,12 +43,13 @@ background-color: rgb(230, 118, 118);
 
 .section_1-part_1 {
 display: inline-flex;
-margin: 0 auto;
-height: 2em;
+height: 5rem;
 width: inherit;
-font-family: Times New Roman;
+margin: 0 auto;
 font-size: 18px;
+font-family: Times New Roman;
 justify-content: center;
+align-items: center;
 }
 #s1-p1-logo {}
 
@@ -56,9 +57,8 @@ justify-content: center;
 .section_1-part_2 {
 display: inline-flex;
 margin: 0 auto;
-height: 0em;
+height: 10px;
 width: inherit;
-border: solid;
 }
 #s1-p2-greetings {}
 
@@ -66,9 +66,8 @@ border: solid;
 .section_1-part_3{
 display: flex; 
 margin: 0 auto;
-height: 2em;
+height: 4rem;
 width: inherit;
-align-content: center;
 justify-content: center;
 }
 
